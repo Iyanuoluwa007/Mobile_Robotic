@@ -1,6 +1,6 @@
 # 🦾 Autonomous Mobile Robot Navigation - Pioneer P3-DX
 
-This repository showcases the implementation of **three key behaviors**—**waypoint following**, **target tracking**, and **obstacle avoidance**—on the **Pioneer P3-DX** robot platform using **Java**, **MobileSim**, **OpenCV**, and other related tools.
+This repository showcases the implementation of **three key behaviors** **waypoint following**, **target tracking**, and **obstacle avoidance** on the **Pioneer P3-DX** robot platform using **Java**, **MobileSim**, **OpenCV**, and other related tools.
 
 ## 📌 Overview
 
