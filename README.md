@@ -61,15 +61,10 @@ This project was developed as part of the *Mobile Robotics* module at the Univer
 
 ## 📖 Citation
 
-Oke Iyanuoluwa Enoch, *Autonomous Mobile Robot Navigation: Implementing Three Key Behaviors*, University of Salford, 2025.
-
-## 📜 License
-
-This project is for educational and demonstration purposes. Please contact the author for permission if you intend to reuse the material in academic or commercial settings.
+Oke Iyanuoluwa Enoch, *Autonomous Mobile Robot Navigation: Implementing Three Key Behaviors*, University of Salford, 2024.
 
 ---
 
 > **Contact**  
-> 📧 i.e.oke@edu.salford.ac.uk  
-> 🏫 University of Salford, Manchester, UK
+> 📧 oke.iyanuoluwa12@gmail.com  
 
